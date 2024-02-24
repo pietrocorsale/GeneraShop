@@ -1,6 +1,3 @@
-Sure, here's your README file converted to code:
-
-```
 # GeneraShop
 
 GeneraShop is an innovative online platform that utilizes artificial intelligence to generate unique and personalized images from descriptive text. Users can apply these generated images to a variety of products available on the platform. This service is ideal for customers looking for one-of-a-kind, AI-generated art on items such as clothing and accessories.
@@ -25,4 +22,3 @@ GeneraShop is an innovative online platform that utilizes artificial intelligenc
 - **Other E-commerce Functionalities**: The platform encompasses various other e-commerce functionalities to enhance the user experience.
 
 Feel free to explore GeneraShop and create your personalized AI-generated art on a wide range of products!
-```
